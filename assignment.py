@@ -27,3 +27,4 @@ print("--- Network Final Outputs ---")
 print(f"Output of neuron o1: {out_o1:.4f}")
 
 print(f"Output of neuron o2: {out_o2:.4f}")
+
